@@ -1,0 +1,18 @@
+
+.centrar {
+text-align: center;
+
+}
+
+.mt-100{
+    margin-top: 100px;
+}
+.centrarIMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+    }
+.titulos{
+    background-color: #C4C4C4; 
+    color: #005677;
+}
